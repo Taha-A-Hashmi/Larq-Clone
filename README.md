@@ -1,1 +1,1 @@
-# larq-clone
+# Larq Clone
