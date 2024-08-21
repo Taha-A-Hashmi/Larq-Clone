@@ -17,10 +17,7 @@
 
 
 ## Setup Guide
-- Clone the repo
-- Run 
-'''
-npm install
-npx vite
-'''
+- Clone the repo and create a new terminal
+- Run ```npm install```
+- Run ```npx vite```
 - Open the localhost URL
