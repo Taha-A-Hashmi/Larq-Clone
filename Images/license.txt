@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thermos - Hydration Bottle 24OZ
+* source:	https://sketchfab.com/3d-models/thermos-hydration-bottle-24oz-794b730ae452424bb3a9ce3c6caaff7a
+* author:	Berk Gedik (https://sketchfab.com/berkgedik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thermos - Hydration Bottle 24OZ" (https://sketchfab.com/3d-models/thermos-hydration-bottle-24oz-794b730ae452424bb3a9ce3c6caaff7a) by Berk Gedik (https://sketchfab.com/berkgedik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

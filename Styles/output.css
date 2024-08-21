@@ -570,8 +570,20 @@ video {
   bottom: 24px;
 }
 
+.left-\[15px\] {
+  left: 15px;
+}
+
 .left-\[24px\] {
   left: 24px;
+}
+
+.left-\[25px\] {
+  left: 25px;
+}
+
+.top-\[72px\] {
+  top: 72px;
 }
 
 .z-30 {
@@ -586,9 +598,9 @@ video {
   margin: 10px;
 }
 
-.mx-\[20px\] {
-  margin-left: 20px;
-  margin-right: 20px;
+.my-\[10px\] {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .mb-\[15px\] {
@@ -597,6 +609,18 @@ video {
 
 .mb-\[40px\] {
   margin-bottom: 40px;
+}
+
+.ml-0 {
+  margin-left: 0px;
+}
+
+.mr-\[0px\] {
+  margin-right: 0px;
+}
+
+.mr-\[20px\] {
+  margin-right: 20px;
 }
 
 .mt-\[10px\] {
@@ -613,22 +637,6 @@ video {
 
 .mt-\[60px\] {
   margin-top: 60px;
-}
-
-.mt-\[\] {
-  margin-top: ;
-}
-
-.mt-\[250px\] {
-  margin-top: 250px;
-}
-
-.mt-\[300px\] {
-  margin-top: 300px;
-}
-
-.mt-\[350px\] {
-  margin-top: 350px;
 }
 
 .box-border {
@@ -651,12 +659,20 @@ video {
   height: 20px;
 }
 
-.h-\[430px\] {
-  height: 430px;
+.h-\[250px\] {
+  height: 250px;
 }
 
-.h-\[475px\] {
-  height: 475px;
+.h-\[30\%\] {
+  height: 30%;
+}
+
+.h-\[40px\] {
+  height: 40px;
+}
+
+.h-\[430px\] {
+  height: 430px;
 }
 
 .h-\[50px\] {
@@ -667,20 +683,32 @@ video {
   height: 72px;
 }
 
-.w-1\/3 {
-  width: 33.333333%;
+.h-\[calc\(100vh-72px\)\] {
+  height: calc(100vh - 72px);
 }
 
-.w-1\/4 {
-  width: 25%;
+.w-1\/2 {
+  width: 50%;
 }
 
-.w-3\/4 {
-  width: 75%;
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[190px\] {
+  width: 190px;
 }
 
 .w-\[20px\] {
   width: 20px;
+}
+
+.w-\[250px\] {
+  width: 250px;
+}
+
+.w-\[40px\] {
+  width: 40px;
 }
 
 .w-\[430px\] {
@@ -691,32 +719,8 @@ video {
   width: 100%;
 }
 
-.w-\[\] {
-  width: ;
-}
-
-.w-\[28\.9\%\] {
-  width: 28.9%;
-}
-
-.w-\[3\/4\] {
-  width: 3/4;
-}
-
-.w-\[1\/3\] {
-  width: 1/3;
-}
-
-.w-\[2\] {
-  width: 2;
-}
-
-.w-\[28\.9\] {
-  width: 28.9;
-}
-
-.w-\[29\.2\%\] {
-  width: 29.2%;
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .cursor-pointer {
@@ -727,12 +731,20 @@ video {
   list-style-type: none;
 }
 
-.flex-row {
-  flex-direction: row;
-}
-
 .flex-col {
   flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.items-end {
+  align-items: flex-end;
 }
 
 .items-center {
@@ -759,6 +771,10 @@ video {
   border-radius: 9999px;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
 .rounded-xl {
   border-radius: 0.75rem;
 }
@@ -777,6 +793,11 @@ video {
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
 }
 
+.bg-blue-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
+}
+
 .bg-blue-950 {
   --tw-bg-opacity: 1;
   background-color: rgb(23 37 84 / var(--tw-bg-opacity));
@@ -785,6 +806,15 @@ video {
 .bg-heading-blue-0 {
   --tw-bg-opacity: 1;
   background-color: rgb(21 58 91 / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-banner-mobile {
+  background-image: url('https://res.cloudinary.com/larq/image/fetch/q_auto,f_auto/https://res.cloudinary.com/larq/images/f_auto,q_auto/v1723834265/Luberon_Lavender_Mobile_tennis_new/Luberon_Lavender_Mobile_tennis_new.jpg?_i=AA');
 }
 
 .bg-gradient-to-r {
@@ -805,10 +835,6 @@ video {
   --tw-gradient-to: #fde68a var(--tw-gradient-to-position);
 }
 
-.bg-contain {
-  background-size: contain;
-}
-
 .bg-cover {
   background-size: cover;
 }
@@ -825,9 +851,9 @@ video {
   padding: 0px;
 }
 
-.px-12 {
-  padding-left: 3rem;
-  padding-right: 3rem;
+.px-0 {
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .px-2 {
@@ -840,13 +866,31 @@ video {
   padding-right: 1rem;
 }
 
+.px-\[15px\] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .px-\[20px\] {
   padding-left: 20px;
   padding-right: 20px;
 }
 
+.px-\[30px\] {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.pb-\[30px\] {
+  padding-bottom: 30px;
+}
+
 .pl-3 {
   padding-left: 0.75rem;
+}
+
+.pl-\[30px\] {
+  padding-left: 30px;
 }
 
 .font-value {
@@ -855,6 +899,23 @@ video {
 
 .text-\[10px\] {
   font-size: 10px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.text-\[26px\] {
+  font-size: 26px;
+}
+
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .text-sm {
@@ -867,9 +928,12 @@ video {
   line-height: 1rem;
 }
 
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
+.font-\[400\] {
+  font-weight: 400;
+}
+
+.font-\[900\] {
+  font-weight: 900;
 }
 
 .font-bold {
@@ -899,10 +963,6 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-\[\] {
-  color: ;
-}
-
 .transition {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
@@ -923,6 +983,12 @@ video {
 
 .duration-500 {
   transition-duration: 500ms;
+}
+
+.hover\:scale-110:hover {
+  --tw-scale-x: 1.1;
+  --tw-scale-y: 1.1;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .hover\:bg-slate-100:hover {
@@ -948,4 +1014,152 @@ video {
 .hover\:text-heading-blue-0:hover {
   --tw-text-opacity: 1;
   color: rgb(21 58 91 / var(--tw-text-opacity));
+}
+
+@media (min-width: 640px) {
+  .sm\:static {
+    position: static;
+  }
+
+  .sm\:px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .sm\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .sm\:text-\[34px\] {
+    font-size: 34px;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:static {
+    position: static;
+  }
+
+  .md\:my-\[0\] {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .md\:mt-\[350px\] {
+    margin-top: 350px;
+  }
+
+  .md\:block {
+    display: block;
+  }
+
+  .md\:h-\[430px\] {
+    height: 430px;
+  }
+
+  .md\:w-\[28\.9\%\] {
+    width: 28.9%;
+  }
+
+  .md\:w-\[auto\] {
+    width: auto;
+  }
+
+  .md\:flex-row {
+    flex-direction: row;
+  }
+
+  .md\:items-center {
+    align-items: center;
+  }
+
+  .md\:bg-banner-desktop {
+    background-image: url('https://res.cloudinary.com/larq/image/fetch/q_auto,f_auto/https://res.cloudinary.com/larq/images/f_auto,q_auto/v1723834257/Luberon_Lavender_desktop_tennis_new/Luberon_Lavender_desktop_tennis_new.jpg?_i=AA');
+  }
+
+  .md\:p-0 {
+    padding: 0px;
+  }
+
+  .md\:p-\[60px\] {
+    padding: 60px;
+  }
+
+  .md\:px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .md\:text-\[12px\] {
+    font-size: 12px;
+  }
+
+  .md\:text-\[22px\] {
+    font-size: 22px;
+  }
+
+  .md\:text-\[46px\] {
+    font-size: 46px;
+  }
+
+  .md\:text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:text-\[64px\] {
+    font-size: 64px;
+  }
+
+  .lg\:text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:mx-\[20px\] {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .xl\:my-\[0\] {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .xl\:ml-\[20px\] {
+    margin-left: 20px;
+  }
+
+  .xl\:mt-0 {
+    margin-top: 0px;
+  }
+
+  .xl\:flex {
+    display: flex;
+  }
+
+  .xl\:\!hidden {
+    display: none !important;
+  }
+
+  .xl\:h-\[475px\] {
+    height: 475px;
+  }
+
+  .xl\:w-1\/4 {
+    width: 25%;
+  }
+
+  .xl\:w-3\/4 {
+    width: 75%;
+  }
+
+  .xl\:flex-row {
+    flex-direction: row;
+  }
 }
