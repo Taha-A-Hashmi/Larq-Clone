@@ -24,7 +24,7 @@ orbit.maxDistance = 7;
 const loader = new GLTFLoader();
 let bottle;
 loader.load(
-    './Images/scene.gltf', 
+    './Images/Bottle1/scene.gltf', 
     function(gltf){
         bottle = gltf.scene;
         scene.add(bottle);
