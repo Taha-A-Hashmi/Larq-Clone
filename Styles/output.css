@@ -639,6 +639,10 @@ video {
   margin-top: 60px;
 }
 
+.mb-\[30px\] {
+  margin-bottom: 30px;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -707,6 +711,10 @@ video {
   height: calc(100vh - 72px);
 }
 
+.h-\[400px\] {
+  height: 400px;
+}
+
 .\!w-\[800px\] {
   width: 800px !important;
 }
@@ -741,6 +749,14 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[800px\] {
+  width: 800px;
+}
+
+.w-\[clamp\(300px\2c 800px\2c 80vw\)\] {
+  width: clamp(300px,800px,80vw);
 }
 
 .transform {
