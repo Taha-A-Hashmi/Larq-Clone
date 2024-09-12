@@ -143,10 +143,8 @@ cartButtons.forEach((button) => {
     if (prices.length > 0) {
         count = 0;
         prices.forEach(e => {
-            if (e.style.display == "block") {
-                cartIndicator.innerText = `${prices.length}`;
-                cartIndicator.style.display = "flex";
-            }
+            cartIndicator.innerText = `${prices.length}`;
+            cartIndicator.style.display = "flex";
         });
     }
   });
