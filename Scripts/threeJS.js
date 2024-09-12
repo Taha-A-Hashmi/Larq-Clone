@@ -970,3 +970,6331 @@ scene.add(lightHelper2);*/
 scene.add(lightHelper);
 const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
 scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
+/*const lightHelper = new THREE.DirectionalLightHelper(directionalLight, 5, 0x000000);
+scene.add(lightHelper);
+const lightHelper2 = new THREE.DirectionalLightHelper(directionalLight2, 5, 0x000000);
+scene.add(lightHelper2);*/
