@@ -88,8 +88,9 @@ cartButtons.forEach((button) => {
                     count += 1;
                 }
             });
-            if (count == (mainChildren.length   )) {
+            if (count == (mainChildren.length)) {
                 document.getElementById('default-message').style.display = "block";
+                document.getElementById('subtotal-cost').innerText = `$0`
             }
         })
     });
@@ -116,6 +117,7 @@ cartButtons.forEach((button) => {
                 });
                 if (count == mainChildren.length) {
                     document.getElementById('default-message').style.display = "block";
+                    document.getElementById('subtotal-cost').innerText = `$0`
                 }        
             }
             else {
