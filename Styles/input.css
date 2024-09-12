@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .size-opt-1:checked + .size-text,
+    .size-opt-2:checked + .size-text {
+      @apply text-[rgb(21,58,91)] underline;
+    }
+  }
+  

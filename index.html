@@ -6,6 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="./Styles/output.css">
     <script src="./Scripts/home-page.js" defer></script>
+    <script type="module" src="./Scripts/threeJS.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <link rel="stylesheet" href="./Styles/leafletStyles.css">
     <style>
@@ -26,10 +27,44 @@
         #nav-bar-1 {
             justify-content: start;
         }
+
+        .products {
+            scrollbar-width: none;
+        }
     </style>
  </head>
  <body>
     <div id="nav-bar-container" class="z-30 relative w-full bg-white">
+        <div id="cart-container" class=" hidden bg-[rgba(21,58,91,0.32)] backdrop-blur-[4px] fixed w-[100vw] h-[100vh] z-10 right-0 top-0 overflow-hidden`">
+            <div id="cart-div" class="bg-white fixed h-[100%] w-[100%] md:w-[480px] z-15 right-0 top-0 px-[30px] overflow-scroll">
+                <div id="cart-header" class="flex pt-[40px] justify-between">
+                    <div class="cart-heading text-[#153a5b] font-bold leading-[1.6] text-[20px]">
+                        Your Cart
+                    </div>
+                    <button id="cart-close-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="2 2 20 20" role="img">
+                            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="product-list">
+                </div>
+
+                <div id="subtotal" class="py-[30px] flex justify-between border-y-[1px] border-gray-300">
+                    <div class="subtotal-heading text-[#153a5b] font-bold leading-[1.6] text-[18px]">Subtotal</div>
+                    <div id="subtotal-cost" class="text-[#153a5b] font-bold leading-[1.6] text-[18px]"></div>
+                </div>
+
+                <div id="checkout">
+                    <button id="checkout-btn"  class="block">
+                        Checkout Now
+                    </button>
+                    <span class="taxes" class="block">Shipping and taxes calculated at checkout</span>
+                </div>
+            </div>
+        </div>
+
         <nav id="nav-bar" class="flex items-center justify-between h-[72px] px-0 sm:px-4 md:px-12">
             <ul class="list-none flex w-[430px]">
                 <li class="click-item flex xl:!hidden line-button relative left-[15px] sm:static">
@@ -73,13 +108,16 @@
                 </li>
                 <li class="px-2 text-heading-blue-0 text-xs font-bold h-[72px] flex items-center">
                     <button class="navigation-cart relative" aria-label="Open cart slide out">
-                        <svg class="text-heading-blue-0 rounded-full hover:text-black hover:bg-slate-100 transition-colors duration-300" width="40" height="40" viewBox="0 0 40 40" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img"><path opacity="0.64" d="M11.75 12H13.1562C13.8438 12 14.4688 12.4062 14.75 13H27.5938C28.4062 13 29 13.7812 28.7812 14.5938L27.5 19.3438C27.25 20.3438 26.3438 21 25.3438 21H16.3125L16.5 21.9062C16.5625 22.25 16.875 22.5 17.2188 22.5H26.25C26.6562 22.5 27 22.8438 27 23.25C27 23.6875 26.6562 24 26.25 24H17.2188C16.1562 24 15.2188 23.25 15.0312 22.1875L13.4062 13.7188C13.375 13.5938 13.2812 13.5 13.1562 13.5H11.75C11.3125 13.5 11 13.1875 11 12.75C11 12.3438 11.3125 12 11.75 12ZM15.0938 14.5L16.0312 19.5H25.3438C25.6875 19.5 25.9688 19.2812 26.0625 18.9688L27.25 14.5H15.0938ZM16.5 28C15.9375 28 15.4688 27.7188 15.1875 27.25C14.9062 26.8125 14.9062 26.2188 15.1875 25.75C15.4688 25.3125 15.9375 25 16.5 25C17.0312 25 17.5 25.3125 17.7812 25.75C18.0625 26.2188 18.0625 26.8125 17.7812 27.25C17.5 27.7188 17.0312 28 16.5 28ZM27 26.5C27 27.0625 26.6875 27.5312 26.25 27.8125C25.7812 28.0938 25.1875 28.0938 24.75 27.8125C24.2812 27.5312 24 27.0625 24 26.5C24 25.9688 24.2812 25.5 24.75 25.2188C25.1875 24.9375 25.7812 24.9375 26.25 25.2188C26.6875 25.5 27 25.9688 27 26.5Z" fill="currentColor"></path></svg>
-                        <span class="cart-indicator bg-heading-blue-0 text-white w-[20px] h-[20px] rounded-full flex items-center justify-center absolute left-[24px] bottom-[24px]"></span>
+                        <button id="cart-btn" name="cart">
+                            <svg class="text-heading-blue-0 rounded-full hover:text-black hover:bg-slate-100 transition-colors duration-300" width="40" height="40" viewBox="0 0 40 40" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img"><path opacity="0.64" d="M11.75 12H13.1562C13.8438 12 14.4688 12.4062 14.75 13H27.5938C28.4062 13 29 13.7812 28.7812 14.5938L27.5 19.3438C27.25 20.3438 26.3438 21 25.3438 21H16.3125L16.5 21.9062C16.5625 22.25 16.875 22.5 17.2188 22.5H26.25C26.6562 22.5 27 22.8438 27 23.25C27 23.6875 26.6562 24 26.25 24H17.2188C16.1562 24 15.2188 23.25 15.0312 22.1875L13.4062 13.7188C13.375 13.5938 13.2812 13.5 13.1562 13.5H11.75C11.3125 13.5 11 13.1875 11 12.75C11 12.3438 11.3125 12 11.75 12ZM15.0938 14.5L16.0312 19.5H25.3438C25.6875 19.5 25.9688 19.2812 26.0625 18.9688L27.25 14.5H15.0938ZM16.5 28C15.9375 28 15.4688 27.7188 15.1875 27.25C14.9062 26.8125 14.9062 26.2188 15.1875 25.75C15.4688 25.3125 15.9375 25 16.5 25C17.0312 25 17.5 25.3125 17.7812 25.75C18.0625 26.2188 18.0625 26.8125 17.7812 27.25C17.5 27.7188 17.0312 28 16.5 28ZM27 26.5C27 27.0625 26.6875 27.5312 26.25 27.8125C25.7812 28.0938 25.1875 28.0938 24.75 27.8125C24.2812 27.5312 24 27.0625 24 26.5C24 25.9688 24.2812 25.5 24.75 25.2188C25.1875 24.9375 25.7812 24.9375 26.25 25.2188C26.6875 25.5 27 25.9688 27 26.5Z" fill="currentColor"></path></svg>
+                        </button>
+                        <span class="cart-indicator bg-heading-blue-0 text-white w-[20px] h-[20px] rounded-full flex items-center justify-center relative left-[-15px] bottom-[10px]"></span>
                     </button>
                 </li>
             </ul>
         </nav>
-        <div id="nav-bar-1" class="hover-item bg-white absolute px-4 sm:px-6 md:px-12 w-full h-[calc(100vh-72px)] xl:h-[475px] xl:flex-row flex-col-reverse xl:mt-0 hidden top-[72px] z-31 items-start">
+
+        <div id="nav-bar-1" class="hover-item z-[9999] h-[880px] bg-white absolute px-4 sm:px-6 md:px-12 w-full xl:h-[475px] xl:flex-row flex-col-reverse xl:mt-0 hidden top-[72px] z-31 items-start">
             <div class="labels w-[100%] xl:w-1/4">
                 <div class="buttons">
                     <button class="explore-all px-[20px] mb-[15px] text-sm text-heading-blue-0 font-bold tracking-[1px] h-[50px] border-[1px] border-gray-300 rounded-full flex justify-evenly items-center">
@@ -100,7 +138,7 @@
                             c-5.858,5.857-5.858,15.355,0,21.213L278.787,150H15c-8.284,0-15,6.716-15,15S6.716,180,15,180z"/>
                         </svg>
                     </button>
-                    <button class="explore-all px-[20px] mb-[15px] text-sm text-heading-blue-0 bg-gradient-to-r from-purple-400 to-amber-200 font-bold tracking-[1px] h-[50px] border-[1px] rounded-full flex justify-evenly items-center">
+                    <button class="explore-all px-[20px] mb-[15px] text-sm text-heading-blue-0 bg-gradient-to-r fro bg-[rgb(244,248,250)] to-amber-200 font-bold tracking-[1px] h-[50px] border-[1px] rounded-full flex justify-evenly items-center">
                         <span class="m-[10px]">Summer of Colors</span>
                         <svg fill="currentColor" height="10px" width="10px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
                         viewBox="0 0 330 330" xml:space="preserve">
@@ -138,7 +176,7 @@
     <main id="content">
         <div id="banner-container" class="flex justify-between items-end w-full h-[calc(100vh-72px)] px-[30px] pb-[30px] md:p-[60px] bg-banner-mobile md:bg-banner-desktop bg-cover bg-center bg-no-repeat">
             <div id="banner" class="flex flex-col items-start justify-end text-white w-1/2">
-                <div class="banner-h1 text-[18px] font-[400]">
+                <div class="banner-h1 text-[18p bg-[rgb(244,248,250)]]">
                     Drink Brilliantly
                 </div>
                 <div class="banner-h2 text-[26px] font-[900] sm:text-[34px] md:text-[46px] lg:text-[64px]">
@@ -161,21 +199,160 @@
             </div>
             <div id="banner-product" class="hidden md:block h-[250px] w-[250px] bg-white rounded-lg">
             </div>
-            <script type="module" src="./Scripts/threeJS.js"></script>
         </div>
 
         <div class="map-container flex flex-col items-center justify-center bg-[#153a5b]">
             <div class="map-heading text-white font-bold text-[36px] py-[20px]">Our Locations</div>
-            <div id="map" class="h-[400px] w-[clamp(300px,800px,80vw)] !rounded-[24px] mb-[30px]"></div>
+            <div id="map" class="h-[400px] w-[clamp(300px,800px,80vw)] !rounded-[24px] mb-[30px] z-0"></div>
         </div>
 
-        <div class="products-slider flex flex-col h-[730px]">
+        <div class="products-slider relative flex flex-col pt-[40px] h-[730px] px-[30px] md:px-[60px]">
             <div class="slider-heading color-[#153a5b] text-[clamp(2.13333rem,calc(2.13333rem+(32)*((100vw-428px)/(1920-428))),4.26667rem)] text-[#153a5b] ">Now Trending</div>
-            <div class="products grid grid-rows-1 h-[80%] gap-[10px]">
-                <div class="product bg-gray-400 rounded-[20px] h-[100%] w-[430px]"></div>
-                <div class="product bg-pink-400 rounded-[20px] h-[100%] w-[430px]"></div>
-                <div class="product bg-purple-400 rounded-[20px] h-[100%] w-[430px]"></div>
-                <div class="product bg-red-400 rounded-[20px] h-[100%] w-[430px]"></div>
+            <div class="products grid grid-rows-1 grid-cols-[repeat(5,1fr)] h-[460px] lg:h-[500px] gap-[15px] justify-items-center content-center snap-x overflow-x-scroll scroll-smooth">
+                <button class="nxt-btn absolute top-[35%] lg:top-[42%] right-[4%] 2xl:right-[2%]">
+                    <span class="bg-slate-300 flex items-center justify-center rounded-full w-[50px] h-[50px]">
+                        <svg viewBox="0 0 17 12" fill="none" xmlns="http:/www.w3.org/2000/svg" width="20px" height="20px" role="img">
+                            <path opacity="0.6" d="M10.4688 10.7812C10.3125 10.6562 10.25 10.4688 10.25 10.25C10.25 10.0625 10.3125 9.875 10.4688 9.75L13.4375 6.75H0.75C0.3125 6.75 0 6.4375 0 6C0 5.59375 0.3125 5.25 0.75 5.25H13.4375L10.4688 2.28125C10.1562 2 10.1562 1.53125 10.4688 1.25C10.75 0.9375 11.2188 0.9375 11.5312 1.25L15.7812 5.5C16.0625 5.78125 16.0625 6.25 15.7812 6.53125L11.5312 10.7812C11.2188 11.0938 10.75 11.0938 10.4688 10.7812Z" fill="#153A5B"></path>
+                        </svg>
+                    </span>
+                </button>
+                <button class="prv-btn block absolute top-[35%] lg:top-[42%] left-[4%] 2xl:left-[2%]">
+                    <span class="bg-slate-300 flex items-center justify-center rounded-full w-[50px] h-[50px]">
+                        <svg viewBox="0 0 15 11" fill="none" xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" role="img">
+                            <path opacity="0.6" d="M4.33594 9.94531L0.117188 5.72656C0.0292969 5.63867 0 5.52148 0 5.375C0 5.25781 0.0292969 5.14062 0.117188 5.05273L4.33594 0.833984C4.51172 0.658203 4.83398 0.658203 5.00977 0.833984C5.18555 1.00977 5.18555 1.33203 5.00977 1.50781L1.58203 4.90625H14.5312C14.7656 4.90625 15 5.14062 15 5.375C15 5.63867 14.7656 5.84375 14.5312 5.84375H1.58203L5.00977 9.27148C5.18555 9.44727 5.18555 9.76953 5.00977 9.94531C4.83398 10.1211 4.51172 10.1211 4.33594 9.94531Z" fill="#153A5B"></path>
+                        </svg>
+                    </span>
+                </button>
+                <div class="product bg-[rgb(244,248,250)] rounded-[20px] h-[100%] w-[250px] lg:w-[290px] 2xl:w-[343px] flex justify-center items-center flex-col">
+                    <div class="save-span bg-[rgb(66,100,98)] h-[20px] w-[70%] text-[10px] text-white font-[600] flex justify-center items-center rounded-xl relative left-[-12%]">
+                        SAVE %25.85 ON HYDRATION SETS
+                    </div>
+                    <div id="main-product-1" class="main-product block h-[250px] w-[250px]"></div>
+                    <div class="product-name font-[700] my-[10px] text-[rgb(21,58,91)] text-[clamp(1.06667rem,-1.14745px+1.06667rem+0.268097vw,1.33333rem)] leading-[1.2]">
+                        Product Name
+                    </div>
+                    <div class="product-size mt-[5px]">
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-4" class="size-opt-1 hidden rgb(21, 58, 91)" checked/>
+                            <span class="size-text">23oz</span>
+                        </label>
+                          
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-4" class="size-opt-2 hidden rgb(21, 58, 91)"/>
+                            <span class="size-text">32oz</span>
+                        </label>
+                          
+                    </div>
+                    <div class="product-price mt-[5px] mb-[20px]">
+                        <span class="price-1 mx-[10px]"></span>
+                        <span class="price-2 mx-[10px]"></span>
+                    </div>
+                    <button class="cart-btn font-[700] my-[10px] w-[120px] h-[30px] rounded-xl text-white bg-[rgb(21,58,91)] text-[12px] leading-[1.2]">Add to cart</button>
+                </div>
+                <div class="product bg-[rgb(244,248,250)] rounded-[20px] h-[100%] w-[250px] lg:w-[290px] 2xl:w-[343px] flex justify-center items-center flex-col">
+                    <div class="save-span bg-[rgb(66,100,98)] h-[20px] w-[70%] text-[10px] text-white font-[600] flex justify-center items-center rounded-xl relative left-[-12%]">
+                        SAVE %25.85 ON HYDRATION SETS
+                    </div>
+                    <div id="main-product-1" class="main-product block h-[250px] w-[250px]"></div>
+                    <div class="product-name font-[700] my-[10px] text-[rgb(21,58,91)] text-[clamp(1.06667rem,-1.14745px+1.06667rem+0.268097vw,1.33333rem)] leading-[1.2]">
+                        Product Name
+                    </div>
+                    <div class="product-size mt-[5px]">
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-2" class="size-opt-1 hidden rgb(21, 58, 91)" checked/>
+                            <span class="size-text">23oz</span>
+                        </label>
+                          
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-2" class="size-opt-2 hidden rgb(21, 58, 91)"/>
+                            <span class="size-text">32oz</span>
+                        </label>
+                          
+                    </div>
+                    <div class="product-price mt-[5px] mb-[20px]">
+                        <span class="price-1 mx-[10px]"></span>
+                        <span class="price-2 mx-[10px]"></span>
+                    </div>
+                    <button class="cart-btn font-[700] my-[10px] w-[120px] h-[30px] rounded-xl text-white bg-[rgb(21,58,91)] text-[12px] leading-[1.2]">Add to cart</button>
+                </div>
+                <div class="product bg-[rgb(244,248,250)] rounded-[20px] h-[100%] w-[250px] lg:w-[290px] 2xl:w-[343px] flex justify-center items-center flex-col">
+                    <div class="save-span bg-[rgb(66,100,98)] h-[20px] w-[70%] text-[10px] text-white font-[600] flex justify-center items-center rounded-xl relative left-[-12%]">
+                        SAVE %25.85 ON HYDRATION SETS
+                    </div>
+                    <div id="main-product-1" class="main-product block h-[250px] w-[250px]"></div>
+                    <div class="product-name font-[700] my-[10px] text-[rgb(21,58,91)] text-[clamp(1.06667rem,-1.14745px+1.06667rem+0.268097vw,1.33333rem)] leading-[1.2]">
+                        Product Name
+                    </div>
+                    <div class="product-size mt-[5px]">
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-3" class="size-opt-1 hidden rgb(21, 58, 91)" checked/>
+                            <span class="size-text">23oz</span>
+                        </label>
+                          
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-3" class="size-opt-2 hidden rgb(21, 58, 91)"/>
+                            <span class="size-text">32oz</span>
+                        </label>
+                          
+                    </div>
+                    <div class="product-price mt-[5px] mb-[20px]">
+                        <span class="price-1 mx-[10px]"></span>
+                        <span class="price-2 mx-[10px]"></span>
+                    </div>
+                    <button class="cart-btn font-[700] my-[10px] w-[120px] h-[30px] rounded-xl text-white bg-[rgb(21,58,91)] text-[12px] leading-[1.2]">Add to cart</button>
+                </div>
+                <div class="product bg-[rgb(244,248,250)] rounded-[20px] h-[100%] w-[250px] lg:w-[290px] 2xl:w-[343px] flex justify-center items-center flex-col">
+                    <div class="save-span bg-[rgb(66,100,98)] h-[20px] w-[70%] text-[10px] text-white font-[600] flex justify-center items-center rounded-xl relative left-[-12%]">
+                        SAVE %25.85 ON HYDRATION SETS
+                    </div>
+                    <div id="main-product-1" class="main-product block h-[250px] w-[250px]"></div>
+                    <div class="product-name font-[700] my-[10px] text-[rgb(21,58,91)] text-[clamp(1.06667rem,-1.14745px+1.06667rem+0.268097vw,1.33333rem)] leading-[1.2]">
+                        Product Name
+                    </div>
+                    <div class="product-size mt-[5px]">
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-5" class="size-opt-1 hidden rgb(21, 58, 91)" checked/>
+                            <span class="size-text">23oz</span>
+                        </label>
+                          
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-5" class="size-opt-2 hidden rgb(21, 58, 91)"/>
+                            <span class="size-text">32oz</span>
+                        </label>
+                          
+                    </div>
+                    <div class="product-price mt-[5px] mb-[20px]">
+                        <span class="price-1 mx-[10px]"></span>
+                        <span class="price-2 mx-[10px]"></span>
+                    </div>
+                    <button class="cart-btn font-[700] my-[10px] w-[120px] h-[30px] rounded-xl text-white bg-[rgb(21,58,91)] text-[12px] leading-[1.2]">Add to cart</button>
+                </div>
+                <div class="product bg-[rgb(244,248,250)] rounded-[20px] h-[100%] w-[250px] lg:w-[290px] 2xl:w-[343px] flex justify-center items-center flex-col">
+                    <div class="save-span bg-[rgb(66,100,98)] h-[20px] w-[70%] text-[10px] text-white font-[600] flex justify-center items-center rounded-xl relative left-[-12%]">
+                        SAVE %25.85 ON HYDRATION SETS
+                    </div>
+                    <div id="main-product-1" class="main-product block h-[250px] w-[250px]"></div>
+                    <div class="product-name font-[700] my-[10px] text-[rgb(21,58,91)] text-[clamp(1.06667rem,-1.14745px+1.06667rem+0.268097vw,1.33333rem)] leading-[1.2]">
+                        Product Name
+                    </div>
+                    <div class="product-size mt-[5px]">
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-6" class="size-opt-1 hidden rgb(21, 58, 91)" checked/>
+                            <span class="size-text">23oz</span>
+                        </label>
+                          
+                        <label class="size-opt-container mx-[10px] cursor-pointer">
+                            <input type="radio" name="size-6" class="size-opt-2 hidden rgb(21, 58, 91)"/>
+                            <span class="size-text">32oz</span>
+                        </label>
+                          
+                    </div>
+                    <div class="product-price mt-[5px] mb-[20px]">
+                        <span class="price-1 mx-[10px]"></span>
+                        <span class="price-2 mx-[10px]"></span>
+                    </div>
+                    <button class="cart-btn font-[700] my-[10px] w-[120px] h-[30px] rounded-xl text-white bg-[rgb(21,58,91)] text-[12px] leading-[1.2]">Add to cart</button>
+                </div>
             </div>
         </div>
     </main>
