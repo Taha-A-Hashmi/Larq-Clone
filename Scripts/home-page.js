@@ -36,12 +36,13 @@ cartButtons.forEach((button) => {
         if (radio.checked) {
             size = radio.nextElementSibling.innerText;
             price = radio.parentElement.parentElement.parentElement.children[4].children[0].innerText;
+            document.getElementById('default-message').style.display = "none";
             cartProducts.innerHTML += `
             <div class="list-product-container flex h-[80px] w-[100vw] md:w-[420px] my-[30px]">
                 <div class="product-image bg-[rgb(244,248,250)] h-[80px] w-[80px] rounded-sm"></div>
-                <div class="list-product-text w-[335px] flex flex-col pl-[15px]">
+                <div class="list-product-text w-[55%] md:w-[335px] flex flex-col pl-[15px]">
                     <div class="list-product-h1 flex justify-between">
-                        <div class="text-[15px] text-[#153a5b] font-bold leading-[1.6]">Product Name</div>
+                        <div class="text-[15px] text-[#153a5b] font-bold leading-[1.6]">${title}</div>
                         <button title="Delete Item" class="delete-btn h-[12px] w-[12px] mt-[4px]" type="button">
                             <svg viewBox="0 0 15 16" xmlns="http://www.w3.org/2000/svg" role="img">
                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 2a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v1h3a1 1 0 1 1 0 2h-.544l-.37 8.136A3 3 0 0 1 10.089 16H4.91a3 3 0 0 1-2.997-2.864L1.544 5H1a1 1 0 0 1 0-2h3V2Zm2 1h3V2H6v1ZM3.546 5l.366 8.045a1 1 0 0 0 1 .955h5.177a1 1 0 0 0 .999-.955L11.454 5H3.545Z"></path>
@@ -67,8 +68,26 @@ cartButtons.forEach((button) => {
         document.getElementById('subtotal-cost').innerText = `${subtotal}`;
         if (prices.length > 0) {
             cartIndicator.innerText = `${prices.length}`;
-            cartIndicator.style.display = "";
+            cartIndicator.style.display = "flex";
         }
+        // Delete Button
+        const dltBtns = [...document.getElementsByClassName('delete-btn')];
+        dltBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                console.log(btn.parentElement.parentElement.parentElement)
+                btn.parentElement.parentElement.parentElement.style.display = "none";
+                let mainChildren = [...productList.children];
+                let count = 0;
+                mainChildren.forEach(child => {
+                    if (child.style.display == "none"){
+                        count += 1;
+                    }
+                });
+                if (count == (mainChildren.length   )) {
+                    document.getElementById('default-message').style.display = "block";
+                }
+            })
+        });
     });
   });
 });

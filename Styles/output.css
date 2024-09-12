@@ -673,6 +673,21 @@ video {
   margin-bottom: 30px;
 }
 
+.my-\[100px\] {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mx-\[auto\] {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mb-\[15px\] {
   margin-bottom: 15px;
 }
@@ -846,6 +861,14 @@ video {
   height: 12px;
 }
 
+.h-80 {
+  height: 20rem;
+}
+
+.h-\[100px\] {
+  height: 100px;
+}
+
 .w-1\/2 {
   width: 50%;
 }
@@ -932,6 +955,14 @@ video {
 
 .w-\[335px\] {
   width: 335px;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[280px\] {
+  width: 280px;
 }
 
 .transform {
@@ -1143,6 +1174,18 @@ video {
   background-image: url('https://res.cloudinary.com/larq/image/upload/w_790/v1692781791/Homepage-v3/Navigation/update/purification-big.jpg');
 }
 
+.from-blue-200 {
+  --tw-gradient-from: #bfdbfe var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(191 219 254 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.from-purple-400 {
+  --tw-gradient-from: #c084fc var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(192 132 252 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
 .to-amber-200 {
   --tw-gradient-to: #fde68a var(--tw-gradient-to-position);
 }
@@ -1223,6 +1266,10 @@ video {
   padding-left: 15px;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-value {
   font-family: Value, sans-serif;
 }
@@ -1284,6 +1331,10 @@ video {
 
 .text-\[13px\] {
   font-size: 13px;
+}
+
+.text-\[22px\] {
+  font-size: 22px;
 }
 
 .font-\[600\] {
@@ -1350,6 +1401,11 @@ video {
 .text-\[\#757575\] {
   --tw-text-opacity: 1;
   color: rgb(117 117 117 / var(--tw-text-opacity));
+}
+
+.text-\[\#5a5e60\] {
+  --tw-text-opacity: 1;
+  color: rgb(90 94 96 / var(--tw-text-opacity));
 }
 
 .backdrop-blur-\[4px\] {
