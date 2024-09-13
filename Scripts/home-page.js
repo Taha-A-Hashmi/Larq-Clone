@@ -27,10 +27,11 @@ closeBtn.addEventListener('click', () => {
 });
 
 // Add to Cart Listener to start everything
+let totalCost;
 const cartButtons = [...document.getElementsByClassName('cart-btn')];
 const cartProducts = document.getElementById('product-list');
 cartButtons.forEach((button) => {
-    button.addEventListener('click', function() {
+    button.addEventListener('click', function() {        
         //Increasing Cart Count
         cartIndicator.innerText = Number(cartIndicator.innerText) + 1;
         cartNumberLoader();
@@ -79,11 +80,16 @@ cartButtons.forEach((button) => {
                         <div class="price text-[15px] text-[#153a5b] font-bold leading-[1.6]">${price}</div>
                     </div>
                 </div>
-            </div>`;    
+            </div>`;
+
+            // Increasing subtotal
+            subtotalDiv = document.getElementById('subtotal-cost');
+            let totalCost = Number(subtotalDiv.innerText.slice(1)) + Number(price.slice(1));
+            subtotalDiv.innerText = `$${totalCost}`
         }
     });
     let productList = document.getElementById('product-list');
-    
+
     // Delete Button
     const dltBtns = [...document.getElementsByClassName('delete-btn')];
     dltBtns.forEach(btn => {
@@ -105,6 +111,21 @@ cartButtons.forEach((button) => {
             cartCount = cartCount - counterNum;
             cartIndicator.innerText = cartCount;
             cartNumberLoader();
+
+            // Decreasing Subtotal
+            subtotalDiv = document.getElementById('subtotal-cost');
+            const productDiv1 = btn.parentElement.parentElement.parentElement;
+            let itemCount = Number(productDiv1.querySelector('#item-count').innerText);
+            let indivPrice = (Number(price.slice(1)));
+            let subtotalInit = Number(subtotalDiv.innerText.slice(1));
+            let totalCost = subtotalInit - ((indivPrice) * (itemCount));
+            subtotalDiv.innerText = `$${totalCost}`
+            if (totalCost < 0) {
+                subtotalDiv.innerText = `$0`
+            }
+            else {
+                subtotalDiv.innerText = `$${totalCost}`
+            }
         })
     });
 
@@ -149,17 +170,19 @@ cartButtons.forEach((button) => {
                 let finalPrice = initPrice * itemCount;
                 priceDiv.innerText = `$${finalPrice}`;
             }
+            
             //Subtotal Calculation
-            // const subtotalDiv = document.getElementById('subtotal-cost');
-            // let totalPrice = Number(subtotalDiv.innerText.slice(1));
-            // const productDivs = productList.children;
-            // productDivs.forEach(div => {
-            //     if (div.style.display == "block") {
-            //         const cost = div.querySelector('.price');
-            //         totalPrice -= Number(initPrice)
-            //         subtotalDiv.innerText = `$${totalPrice}`
-            //     }
-            // });
+            subtotalDiv = document.getElementById('subtotal-cost');
+            let indivPrice = (Number(price.slice(1)));
+            let subtotalInit = Number(subtotalDiv.innerText.slice(1));
+            let totalCost = subtotalInit - (indivPrice);
+            subtotalDiv.innerText = `$${totalCost}`
+            if (totalCost < 0) {
+                subtotalDiv.innerText = `$0`
+            }
+            else {
+                subtotalDiv.innerText = `$${totalCost}`
+            }
         });
         addButton.addEventListener('click', () => {
             itemCount += 1;
@@ -179,6 +202,16 @@ cartButtons.forEach((button) => {
                 priceDiv.innerText = `$${finalPrice}`;
             }
             //Subtotal Calculation
+            subtotalDiv = document.getElementById('subtotal-cost');
+            let indivPrice = (Number(price.slice(1)));
+            let subtotalInit = Number(subtotalDiv.innerText.slice(1));
+            let totalCost = subtotalInit + (indivPrice);
+            if (totalCost < 0) {
+                subtotalDiv.innerText = `$0`
+            }
+            else {
+                subtotalDiv.innerText = `$${totalCost}`
+            }
         });
     });
   });
