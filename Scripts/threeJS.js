@@ -2,6 +2,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/Addons.js';
 import { GLTFLoader } from 'three/examples/jsm/Addons.js';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
+import { MTLLoader } from 'three/addons/loaders/MTLLoader.js';
 
 
 
@@ -82,7 +83,7 @@ document.querySelector('#banner-product').addEventListener('mouseup', function (
 
 
 /****** Product 1 ******/
-const product1Camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+const product1Camera = new THREE.PerspectiveCamera( 75, 16/9, 0.1, 1000 );
 product1Camera.position.set(3, 1, 4);
 const product1Renderer = new THREE.WebGLRenderer({
     antialias: true
@@ -143,7 +144,7 @@ document.querySelector('.products').children[2].children[1].addEventListener('mo
 
 
 /****** Product 2 ******/
-const product2Camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+const product2Camera = new THREE.PerspectiveCamera( 75, 16/9, 0.1, 1000 );
 product2Camera.fov = 10;
 product2Camera.position.set(0, 0, 0);
 const product2Renderer = new THREE.WebGLRenderer({
@@ -172,25 +173,34 @@ product2Orbit.update();
 product2Orbit.enableDamping = true;
 product2Orbit.dampingFactor = 0.25;
 product2Orbit.enableZoom = true;
-product2Orbit.zoomSpeed = 1.0;
-product2Orbit.minDistance = 5;
-product2Orbit.maxDistance = 100;
+product2Orbit.zoomSpeed = 10.0;
+product2Orbit.minDistance = 0;
+product2Orbit.maxDistance = 40;
 
 // Adding Product Image
-const product2Loader = new OBJLoader();
+const product2mtlLoader = new MTLLoader();
 let product2;
-product2Loader.load(
-    './Images/Bottle2/water bottle.obj', 
-    function(object){
-        product2 = object;
-        product2Scene.add(object);
-        product2.position.set(1,-13,-27);
-    },
-    undefined,
-    function (error) {
-        console.log(error);
+product2mtlLoader.load (
+    './Images/Bottle2/water bottle.mtl',
+    (materials) => {
+        materials.preload();
+        const product2Loader = new OBJLoader();
+        product2Loader.setMaterials(materials);
+        product2Loader.load(
+            './Images/Bottle2/water bottle.obj', 
+            (object) => {
+                product2 = object;
+                product2Scene.add(object);
+                product2.position.set(1,-13,-27);
+            },
+            undefined,
+            function (error) {
+                console.log(error);
+            }
+        )
     }
 )
+
 
 // Rotation for Product 2
 let isRotating2 = true;
@@ -204,8 +214,8 @@ document.querySelector('.products').children[3].children[1].addEventListener('mo
 
 
 /****** Product 3 ******/
-const product3Camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
-product3Camera.position.set(3, 1, 4);
+const product3Camera = new THREE.PerspectiveCamera( 100, 16/9, 0.1, 1000 );
+product3Camera.position.set(7, 4.5, 7);
 const product3Renderer = new THREE.WebGLRenderer({
     antialias: true
 });
@@ -217,6 +227,8 @@ product3Renderer.setClearColor(0xf4f8fa);
 product3Renderer.setPixelRatio(window.devicePixelRatio);
 product3Renderer.setAnimationLoop( animate );
 const product3Scene = new THREE.Scene();
+const axesHelper = new THREE.AxesHelper(4);
+product3Scene.add(axesHelper);
 
 // Adding Lights
 const product3Light1 = new THREE.DirectionalLight(0xffffff, 3);
@@ -233,23 +245,30 @@ product3Orbit.enableDamping = true;
 product3Orbit.dampingFactor = 0.25;
 product3Orbit.enableZoom = true;
 product3Orbit.zoomSpeed = 1.0;
-product3Orbit.minDistance = 3;
-product3Orbit.maxDistance = 7;
+product3Orbit.minDistance = 7;
+product3Orbit.maxDistance = 12;
 
 // Adding Product Image
-const product3Loader = new GLTFLoader();
+const product3mtlLoader = new MTLLoader();
 let product3;
-product3Loader.load(
-    './Images/Bottle1/scene.gltf', 
-    function(gltf){
-        product3 = gltf.scene;
-        product3Scene.add(product3);
-        product3.position.set(0,0,0);
-        product3.scale.set(0.004, 0.004, 0.004);
-    },
-    undefined,
-    function (error) {
-        console.log(error);
+product3mtlLoader.load (
+    './Images/Bottle3/bottle.mtl',
+    (materials) => {
+        materials.preload();
+        const product3Loader = new OBJLoader();
+        product3Loader.setMaterials(materials);
+        product3Loader.load(
+            './Images/Bottle3/bottle.obj', 
+            (object) => {
+                product3 = object;
+                product3Scene.add(object);
+                product3.position.set(0,-10,0);
+            },
+            undefined,
+            function (error) {
+                console.log(error);
+            }
+        )
     }
 )
 
@@ -391,7 +410,7 @@ function animate() {
 	//renderer.render( scene, camera );
     product1Renderer.render ( product1Scene, product1Camera );
     product2Renderer.render ( product2Scene, product2Camera );
-    //product3Renderer.render ( product3Scene, product3Camera );
+    product3Renderer.render ( product3Scene, product3Camera );
     // product4Renderer.render ( product4Scene, product4Camera );
     // product5Renderer.render ( product5Scene, product5Camera );
     orbit.update();
@@ -401,21 +420,21 @@ function animate() {
     product4Orbit.update();
     product5Orbit.update();
     if (bottle && isRotating) {
-        bottle.rotation.y += -0.01;
+        bottle.rotation.y += -0.005;
     }
     if (product1 && isRotating1) {
-        product1.rotation.y += -0.01;
+        product1.rotation.y += -0.005;
     }
     if (product2 && isRotating2) {
-        product2.rotation.y += -0.01;
+        product2.rotation.y += -0.005;
     }
     if (product3 && isRotating3) {
-        product3.rotation.y += -0.01;
+        product3.rotation.y += -0.005;
     }
     if (product4 && isRotating4) {
-        product4.rotation.y += -0.01;
+        product4.rotation.y += -0.005;
     }
     if (product5 && isRotating5) {
-        product5.rotation.y += -0.01;
+        product5.rotation.y += -0.005;
     }
 }
