@@ -407,7 +407,7 @@ document.querySelector('.products').children[6].children[1].addEventListener('mo
 
 /****** Main animate fucnction ******/
 function animate() {
-	//renderer.render( scene, camera );
+	renderer.render( scene, camera );
     product1Renderer.render ( product1Scene, product1Camera );
     product2Renderer.render ( product2Scene, product2Camera );
     product3Renderer.render ( product3Scene, product3Camera );
@@ -417,8 +417,8 @@ function animate() {
     product1Orbit.update();
     product2Orbit.update();
     product3Orbit.update();
-    product4Orbit.update();
-    product5Orbit.update();
+    // product4Orbit.update();
+    // product5Orbit.update();
     if (bottle && isRotating) {
         bottle.rotation.y += -0.005;
     }
